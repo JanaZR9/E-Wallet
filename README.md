@@ -1,3 +1,3 @@
 # E-Wallet
 
-view sit :https://e-wallet-jz.netlify.app/
+Link:https://e-wallet-jz.netlify.app/
